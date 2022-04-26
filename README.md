@@ -11,3 +11,7 @@ Simply copy TimeGrid.js & TimeBadge.js into your components folder.
 React
 Chakra UI
 Moment.js
+
+# Demo
+
+https://chakra-ui-time-badge-array.vercel.app/
